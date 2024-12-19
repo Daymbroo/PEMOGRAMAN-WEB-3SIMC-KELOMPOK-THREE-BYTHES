@@ -1,0 +1,172 @@
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\appsettings.json
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\expo3.staticwebassets.endpoints.json
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\expo3.exe
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\expo3.deps.json
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\expo3.runtimeconfig.json
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\expo3.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\expo3.pdb
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\This PC\Documents\Project\expo3\obj\Debug\net9.0\expo3.csproj.AssemblyReference.cache
+C:\Users\This PC\Documents\Project\expo3\obj\Debug\net9.0\expo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This PC\Documents\Project\expo3\obj\Debug\net9.0\expo3.AssemblyInfoInputs.cache
+C:\Users\This PC\Documents\Project\expo3\obj\Debug\net9.0\expo3.AssemblyInfo.cs
+C:\Users\This PC\Documents\Project\expo3\obj\Debug\net9.0\expo3.csproj.CoreCompileInputs.cache
+C:\Users\This PC\Documents\Project\expo3\obj\Debug\net9.0\expo3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\This PC\Documents\Project\expo3\obj\Debug\net9.0\expo3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\This PC\Documents\Project\expo3\obj\Debug\net9.0\scopedcss\bundle\expo3.styles.css
+C:\Users\This PC\Documents\Project\expo3\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\This PC\Documents\Project\expo3\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\This PC\Documents\Project\expo3\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\This PC\Documents\Project\expo3\obj\Debug\net9.0\staticwebassets\msbuild.expo3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\This PC\Documents\Project\expo3\obj\Debug\net9.0\staticwebassets\msbuild.expo3.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\This PC\Documents\Project\expo3\obj\Debug\net9.0\staticwebassets\msbuild.build.expo3.props
+C:\Users\This PC\Documents\Project\expo3\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.expo3.props
+C:\Users\This PC\Documents\Project\expo3\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.expo3.props
+C:\Users\This PC\Documents\Project\expo3\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\This PC\Documents\Project\expo3\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\This PC\Documents\Project\expo3\obj\Debug\net9.0\expo3.csproj.Up2Date
+C:\Users\This PC\Documents\Project\expo3\obj\Debug\net9.0\expo3.dll
+C:\Users\This PC\Documents\Project\expo3\obj\Debug\net9.0\refint\expo3.dll
+C:\Users\This PC\Documents\Project\expo3\obj\Debug\net9.0\expo3.pdb
+C:\Users\This PC\Documents\Project\expo3\obj\Debug\net9.0\expo3.genruntimeconfig.cache
+C:\Users\This PC\Documents\Project\expo3\obj\Debug\net9.0\ref\expo3.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\Dapper.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\K4os.Compression.LZ4.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\K4os.Hash.xxHash.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\MySql.Data.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\This PC\Documents\Project\expo3\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\appsettings.json
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\expo3.staticwebassets.endpoints.json
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\expo3.exe
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\expo3.deps.json
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\expo3.runtimeconfig.json
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\expo3.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\expo3.pdb
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\Dapper.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\K4os.Compression.LZ4.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\K4os.Hash.xxHash.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\MySql.Data.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\obj\Debug\net9.0\expo3.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\VisualStudioProjects\expo3\obj\Debug\net9.0\expo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\VisualStudioProjects\expo3\obj\Debug\net9.0\expo3.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\VisualStudioProjects\expo3\obj\Debug\net9.0\expo3.AssemblyInfo.cs
+C:\Users\HP\Documents\VisualStudioProjects\expo3\obj\Debug\net9.0\expo3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\VisualStudioProjects\expo3\obj\Debug\net9.0\expo3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Documents\VisualStudioProjects\expo3\obj\Debug\net9.0\expo3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Documents\VisualStudioProjects\expo3\obj\Debug\net9.0\scopedcss\bundle\expo3.styles.css
+C:\Users\HP\Documents\VisualStudioProjects\expo3\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\HP\Documents\VisualStudioProjects\expo3\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\HP\Documents\VisualStudioProjects\expo3\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\HP\Documents\VisualStudioProjects\expo3\obj\Debug\net9.0\staticwebassets\msbuild.expo3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Documents\VisualStudioProjects\expo3\obj\Debug\net9.0\staticwebassets\msbuild.expo3.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\HP\Documents\VisualStudioProjects\expo3\obj\Debug\net9.0\staticwebassets\msbuild.build.expo3.props
+C:\Users\HP\Documents\VisualStudioProjects\expo3\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.expo3.props
+C:\Users\HP\Documents\VisualStudioProjects\expo3\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.expo3.props
+C:\Users\HP\Documents\VisualStudioProjects\expo3\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\HP\Documents\VisualStudioProjects\expo3\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\HP\Documents\VisualStudioProjects\expo3\obj\Debug\net9.0\expo3.csproj.Up2Date
+C:\Users\HP\Documents\VisualStudioProjects\expo3\obj\Debug\net9.0\expo3.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\obj\Debug\net9.0\refint\expo3.dll
+C:\Users\HP\Documents\VisualStudioProjects\expo3\obj\Debug\net9.0\expo3.pdb
+C:\Users\HP\Documents\VisualStudioProjects\expo3\obj\Debug\net9.0\expo3.genruntimeconfig.cache
+C:\Users\HP\Documents\VisualStudioProjects\expo3\obj\Debug\net9.0\ref\expo3.dll

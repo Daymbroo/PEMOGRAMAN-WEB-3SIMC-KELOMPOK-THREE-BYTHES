@@ -1,0 +1,6 @@
+@expo3_HostAddress = http://localhost:5064
+
+GET {{expo3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
